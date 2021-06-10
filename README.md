@@ -5,7 +5,7 @@ A new Flutter package which helps developer to show layers in the applications.
 ## Getting Started
 
 ## Screenshots
-<img src="flutter_01.png">
+<img src="https://raw.githubusercontent.com/Rajkumar07793/layers/master/flutter_01.png">
 
 you can add layers in your container card by giving child as below
 
